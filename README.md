@@ -30,6 +30,9 @@ En estas capturas los valores numéricos de ventas, márgenes, costes, conversio
 - **Excel / CSV** para entrada y salida de datos
 
 Este repositorio busca compartir soluciones prácticas y reutilizables para automatizar procesos y mejorar la eficiencia en el manejo de datos dentro de la empresa.
+
+---
+
 ![albaranesfoto](https://github.com/user-attachments/assets/45058659-4a73-446e-b2ef-1e6bbdd9bda0)
 ![tablafoto](https://github.com/user-attachments/assets/561a4f96-dcdd-46f3-9632-f29d95a15712)
 ![tabla2foto](https://github.com/user-attachments/assets/0ce480ec-f286-4afd-93a6-bfeea94e21d5)
