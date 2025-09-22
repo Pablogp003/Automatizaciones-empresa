@@ -18,4 +18,12 @@ Esta evolución responde a la necesidad de adaptar el programa a nuevos requisit
 
 ---
 
+### Tecnologías utilizadas
+
+- **Python**  
+- **Jupyter Notebook**  
+- **Pandas**  
+- **Excel / CSV** para entrada y salida de datos
+
+
 Este repositorio busca compartir soluciones prácticas y reutilizables para automatizar procesos y mejorar la eficiencia en el manejo de datos dentro de la empresa.
